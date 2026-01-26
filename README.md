@@ -1,6 +1,6 @@
 ## 👨‍💻 Flavio Nunes
 
-Estudante de Análise e Desenvolvimento de Sistemas (início em Fev/2025)  
+Estudante de Análise e Desenvolvimento de Sistemas (início em Fev/2026)  
 Desenvolvedor iOS em formação, com foco em **Swift**, **SwiftUI** e **lógica de programação**.
 
 📌 Buscando **estágio em Desenvolvimento de Software / Mobile (iOS)**.

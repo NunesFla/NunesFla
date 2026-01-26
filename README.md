@@ -36,7 +36,7 @@ Desenvolvedor iOS em formação, com foco em **Swift**, **SwiftUI** e **lógica 
 
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 
 <!---

@@ -15,7 +15,7 @@ Desenvolvedor iOS em formação, com foco em **Swift**, **SwiftUI** e **lógica 
 
 
 ### 🚀 Projetos em destaque
-- 🏦 **Sistema Bancário (Swift)**  
+- 🏦 **Sistema Bancário (Python)**  
   Sistema bancário com regras de negócio, incluindo depósitos, saques e validações de saldo.
 
 - 📊 **IMC App (Swift)**  
